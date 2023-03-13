@@ -35,7 +35,7 @@ Looking to start a career as a Full-Stack Web Developer.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1W1sxkvVZOshxEcAixTGUe8Wt9r0oxjhj/view?usp=sharing" target="_blank" >Resume</a>
       
-       - 💻 Know more about me <a href="https://kuna8987.github.io" target="_blank"  >Portfolio</a> 
+       - 💻 Know more about me <a href="https://kunal8987.github.io/" target="_blank"  >Portfolio</a> 
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, DSA*
       
